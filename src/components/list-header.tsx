@@ -99,7 +99,6 @@ const styles = StyleSheet.create({
   headerRight: {
     flexDirection: "row",
     alignItems: "center",
-    // marginLeft: "40%",
   },
   avatarContainer: {
     flexDirection: "row",
